@@ -16,6 +16,7 @@ session_start();
 include("administrator/connect/connect.php");
 include("pages/menu.php");
 include("pages/main.php");
+include("pages/main/index.php");
 include("pages/footer.php");
 
 ?>
